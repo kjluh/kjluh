@@ -10,7 +10,7 @@
 - 🔭  В настоящее время в поиске работы с интересными приектами для дальнейшего роста и развития. 
 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/opernjdk.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/intellijidea.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openjdk.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/intellijidea.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" />
 
 
 <!--
