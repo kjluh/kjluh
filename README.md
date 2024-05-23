@@ -12,7 +12,8 @@
 
 
 
-<img  data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/intellijidea.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" />
+<img  
+src="https://bigpicture.ru/wp-content/uploads/2021/12/bigpicture_ru_kursy-java.jpg" height="32" alt="логотип java" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/intellijidea.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" />
 
 
 
